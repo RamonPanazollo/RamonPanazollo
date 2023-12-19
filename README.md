@@ -10,4 +10,3 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonPanazollo&layout=compact&langs_count=16&card_width=220&theme=chartreuse-dark"/>
 </div>
 
-![Snake animation](https://github.com/RamonPanazollo/RamonPanazollo/blob/output/github-contribution-grid-snake.svg)

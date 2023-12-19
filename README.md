@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá sou Ramon Panazollo 👋
 
-<!--
-**RamonPanazollo/RamonPanazollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou atualmente estudando python, ciência de dados e machile learning
 
-Here are some ideas to get you started:
+<div style="display: inline_block">
+  <a href="https://github.com/RamonPanazollo">
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=RamonPanazollo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&custom_title=Fillipi's+GitHub+Stats"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonPanazollo&layout=compact&langs_count=16&card_width=220&theme=chartreuse-dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/RamonPanazollo/RamonPanazollo/blob/output/github-contribution-grid-snake.svg)

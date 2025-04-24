@@ -1,6 +1,6 @@
 ### Olá sou Ramon Panazollo 👋
 
-- 🌱 Estou atualmente estudando python, ciência de dados e machile learning
+- 🌱 Estou atualmente estudando python, ciência de dados e machine learning
 
 <div style="display: inline_block">
   <a href="https://github.com/RamonPanazollo">
